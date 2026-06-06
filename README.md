@@ -1,55 +1,10 @@
-# Daniel Germano
-
-Profissional em transição para Engenharia de Dados, com foco em Python, SQL, PostgreSQL, FastAPI, ETL, Data Warehousing e APIs REST.
-
-Atualmente estou construindo projetos práticos para demonstrar capacidade de modelar dados, criar pipelines ETL, trabalhar com bancos relacionais e expor informações por APIs documentadas.
-
-## Projeto em Destaque
-
-### BankGuard
-
-Plataforma de monitoramento e análise de transações bancárias.
-
-O projeto simula um ambiente bancário com ingestão de dados, validação de qualidade, modelagem relacional, modelagem dimensional, consultas analíticas e API REST com FastAPI.
-
-Repositório:
-
-[BankGuard](https://github.com/danielgermano-data/bankguard)
-
-Principais competências demonstradas:
-
-- Python para ETL e automação de dados.
-- PostgreSQL para modelagem relacional e dimensional.
-- SQL com joins, agregações, CTEs e window functions.
-- FastAPI para APIs REST com Swagger.
-- Docker Compose para ambiente local reproduzível.
-- Testes automatizados com Pytest.
-- Lint com Ruff e CI com GitHub Actions.
-
-## Tecnologias
-
-- Python
-- SQL
-- PostgreSQL
-- FastAPI
-- Pandas
-- Docker
-- Git e GitHub
-- ETL
-- Data Warehousing
-- APIs REST
-
-## Em Desenvolvimento
-
-Estou aprofundando meus conhecimentos em:
-
-- Engenharia de Dados
-- Modelagem de dados
-- Qualidade de dados
-- Performance SQL
-- Pipelines de dados
-- Arquitetura de APIs
-
-## Objetivo
-
-Atuar como Engenheiro de Dados Júnior, contribuindo com organização, confiabilidade e análise de dados em ambientes reais.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0D1117&section=header"/>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0D1117&text=BankGuard&fontColor=FF3131&fontSize=55&desc=Engenharia%20de%20Dados%20%7C%20BI%20%7C%20SQL&descColor=FFFFFF&descSize=18"/> </div>
+<div align="center"> <b>`ENGENHARIA DE DADOS | BI | SQL`</b> <samp> <br> Ola! Eu sou <b>Daniel Germano</b> </samp> </div> <div align="center" width="100%"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=FF3131&width=900&size=22&center=true&lines=Criador+do+BankGuard;Projeto+focado+em+dados%2C+BI+e+SQL;Transformando+dados+em+decisoes;Engenharia+de+dados+com+visao+de+negocio" alt="Typing SVG"/> </div>
+<div align="center"> <a href="https://github.com/danielgermano-data/bankguard"> <img src="https://img.shields.io/badge/BankGuard-0D1117?style=for-the-badge&logo=github&logoColor=FF3131" /> </a> </div>
+<div align="center"> <img height="194" src="./assets/readme/project-stats.svg" alt="Estatisticas do BankGuard"> <img height="194" src="./assets/readme/project-languages.svg" alt="Linguagens do BankGuard"> </div>
+<div align="center"> <img width="92%" src="./assets/readme/project-overview.svg" alt="Visao geral do BankGuard"> </div>
+<div align="center"> <samp> <b>Projeto voltado a engenharia de dados, analise bancaria, BI e tomada de decisao com SQL.</b> </samp> </div>
+<div align="center" style="display: inline_block"> <img width="42" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> <img width="42" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> <img width="42" alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"> <img width="42" alt="Apache Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"> <img width="42" alt="Apache Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"> <img width="42" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> <img width="42" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> <img width="42" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> </div> <br> <br> <div align="center"> <a href="https://github.com/danielgermano-data/bankguard"> <img src="https://img.shields.io/badge/Acessar_Projeto-FF3131?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+<div align="center"> <p align="center"> <img align="center" src="https://komarev.com/ghpvc/?username=danielgermano-data&style=flat-square&color=FF3131" /> </p> </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=0D1117&section=footer"/>
