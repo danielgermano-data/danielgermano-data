@@ -31,16 +31,13 @@
 <br>
 
 <div align="center">
-  <img height="194" src="./assets/readme/project-stats.svg" alt="Sistema GitHub de Daniel Germano">
-  <img height="194" src="./assets/readme/project-languages.svg" alt="Habilidades tecnicas do perfil">
+  <img height="194" src="https://raw.githubusercontent.com/danielgermano-data/bankguard/main/assets/readme/project-stats.svg" alt="Sistema GitHub de Daniel Germano">
+  <img height="194" src="https://raw.githubusercontent.com/danielgermano-data/bankguard/main/assets/readme/project-languages.svg" alt="Habilidades tecnicas do perfil">
 </div>
-
-<br>
 
 <div align="center">
-  <img width="92%" src="./assets/readme/project-overview.svg" alt="Registro de evolucao do perfil">
+  <img width="92%" src="https://raw.githubusercontent.com/danielgermano-data/bankguard/main/assets/readme/project-overview.svg" alt="Registro de evolucao do perfil">
 </div>
-
 <br>
 
 <div align="center">
