@@ -1,7 +1,121 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=52&color=0D1117&section=header"/> <div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=158&color=0D1117&text=Daniel%20Germano&fontColor=1F6FEB&fontSize=43&desc=Engenharia%20de%20Dados%20%7C%20BI%20%7C%20SQL%20%7C%20Python&descColor=FFFFFF&descSize=15"/> </div> <div align="center"> <b>`ENGENHARIA DE DADOS | BI | SQL | PYTHON`</b> <samp> <br> Perfil focado em dados, automação, análise e inteligência de negócio. </samp> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&color=1F6FEB&width=900&size=22&center=true&lines=Transformando+dados+em+decis%C3%B5es;Construindo+projetos+com+SQL%2C+BI+e+Python;Engenharia+de+dados+com+vis%C3%A3o+de+neg%C3%B3cio;Portf%C3%B3lio+em+evolu%C3%A7%C3%A3o+constante" alt="Texto animado do perfil"/> </div> <div align="center"> <a href="https://github.com/danielgermano-data/bankguard"> <img src="https://img.shields.io/badge/PROJETO_EM_DESTAQUE-BANKGUARD-1F6FEB?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" /> </a> </div>
-<div align="center"> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgermano-data&theme=github_dark" alt="Estatísticas GitHub"> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielgermano-data&theme=github_dark" alt="Linguagens por repositório"> </div> <div align="center"> <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielgermano-data&theme=github_dark" alt="Linguagens por commits"> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=danielgermano-data&theme=dark&locale=pt_BR&background=0D1117&border=30363D&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&sideLabels=FFFFFF&dates=FFFFFF" alt="Sequência de contribuições"> </div> <div align="center"> <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielgermano-data&bg_color=0D1117&color=FFFFFF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&hide_border=false&border_color=1F6FEB&custom_title=Evolu%C3%A7%C3%A3o%20de%20Commits" alt="Evolução de commits"> </div>
-<div align="center"> <samp> <b>Atualmente desenvolvendo projetos de dados com foco em SQL, BI, Python, pipelines e tomada de decisão.</b> </samp> </div>
-<div align="center"> <a href="https://github.com/danielgermano-data/bankguard"> <img height="140" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/pin/?username=danielgermano-data&repo=bankguard&theme=dark&title_color=1F6FEB&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1117&border_color=1F6FEB&locale=pt-br" alt="Projeto BankGuard"> </a> </div> <div align="center"> <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117&color=1F6FEB" alt="SQL"> <img src="https://img.shields.io/badge/BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0D1117&color=1F6FEB" alt="BI"> <img src="https://img.shields.io/badge/ETL-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE&labelColor=0D1117&color=1F6FEB" alt="ETL"> </div>
-<div align="center"> <img width="44" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="Apache Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="Apache Airflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"> &nbsp;&nbsp;&nbsp; <img width="44" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"> </div>
-<div align="center"> <a href="https://github.com/danielgermano-data/bankguard"> <img src="https://img.shields.io/badge/Acessar_Projeto-1F6FEB?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=danielgermano-data&style=flat-square&color=1F6FEB" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=52&color=0D1117&section=footer"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:111827,100:00BFFF&text=Daniel%20Germano&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Junior%20Data%20Engineer%20in%20progress&descSize=18&descAlignY=58" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=850&lines=Engenharia+de+Dados+Junior+em+formacao;Junior+Data+Engineer+in+progress;Python+%7C+SQL+%7C+ETL+%7C+Data+Pipelines;Em+busca+da+primeira+oportunidade" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/danielgermano-data">
+    <img src="https://img.shields.io/badge/GitHub-danielgermano--data-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/danielgerm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Germano-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:danielgermano.mic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-danielgermano.mic%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.instagram.com/danielgerman1/">
+    <img src="https://img.shields.io/badge/Instagram-danielgerman1-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+</div>
+
+## Olá, eu sou Daniel Germano
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Engenharia de Dados**. Tenho conhecimento em **Python, SQL, MySQL, Git e CSS**, e estou construindo projetos práticos para desenvolver meu portfólio e conquistar minha primeira oportunidade na área.
+
+**Frase que me guia:** disciplina transforma aprendizado em oportunidade.
+
+## Hi, I'm Daniel Germano
+
+I'm a **Systems Analysis and Development** student focused on **Data Engineering**. I have experience with **Python, SQL, MySQL, Git and CSS**, and I am building practical projects to grow my portfolio and earn my first opportunity in tech.
+
+**My guiding phrase:** discipline turns learning into opportunity.
+
+## Sobre Mim | About Me
+
+- Estudando atualmente: **Engenharia de Dados**
+- Currently studying: **Data Engineering**
+- Objetivo: **primeira oportunidade na área de tecnologia**
+- Goal: **first opportunity in tech**
+- Foco: **Python, SQL, ETL, bancos de dados, APIs e pipelines de dados**
+- Focus: **Python, SQL, ETL, databases, APIs and data pipelines**
+- Certificação: **Engenharia de Dados na Asimov Academy**
+- Certification: **Data Engineering at Asimov Academy**
+
+## Tecnologias | Technologies
+
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00BFFF" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FFFFFF" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</div>
+
+## Projeto Em Destaque | Featured Project
+
+### BankGuard
+
+O **BankGuard** é uma plataforma de monitoramento e análise de transações bancárias, criada para demonstrar práticas de Engenharia de Dados aplicadas a um domínio financeiro.
+
+**BankGuard** is a banking transaction monitoring and analytics platform built to demonstrate Data Engineering practices in a financial domain.
+
+Principais pontos | Main highlights:
+
+- Pipeline ETL em Python | Python ETL pipeline
+- Validação e qualidade de dados | Data validation and quality rules
+- Modelagem relacional e dimensional | Relational and dimensional modeling
+- PostgreSQL com schemas, constraints e índices | PostgreSQL with schemas, constraints and indexes
+- Consultas SQL analíticas | Analytical SQL queries
+- API REST com FastAPI e Swagger | REST API with FastAPI and Swagger
+- Testes automatizados com Pytest | Automated tests with Pytest
+- CI com GitHub Actions | CI with GitHub Actions
+- Execução com Docker Compose | Docker Compose setup
+
+Repositório | Repository: [github.com/danielgermano-data/bankguard](https://github.com/danielgermano-data/bankguard)
+
+<div align="center">
+  <a href="https://github.com/danielgermano-data/bankguard">
+    <img src="https://img.shields.io/badge/Abrir%20Projeto-BankGuard-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+## Estatísticas | GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgermano-data&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielgermano-data&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielgermano-data&theme=github_dark" />
+</div>
+
+## Vamos Conectar | Let's Connect
+
+<div align="center">
+  <a href="mailto:danielgermano.mic@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/danielgerm/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://www.instagram.com/danielgerman1/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://github.com/danielgermano-data">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+  </a>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,50:111827,100:000000" />
+</div>
+
