@@ -22,7 +22,7 @@
   </a>
 </div>
 
-## Linguagens de Programacao | Programming Languages
+## Programming Languages
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -31,7 +31,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
 </div>
 
-## Ferramentas e Apps | Tools and Apps
+## Tools and Apps
 
 <div align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
@@ -45,7 +45,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </div>
 
-## Projetos | Projects
+## Projects
 
 <div align="center">
   <a href="https://github.com/danielgermano-data/retailflow-analytics">
@@ -53,14 +53,14 @@
   </a>
 </div>
 
-**Linguagens | Languages**
+**Languages**
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00BFFF" />
 </div>
 
-**Apps e Ferramentas | Apps and Tools**
+**Apps and Tools**
 
 <div align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
@@ -82,14 +82,14 @@
   </a>
 </div>
 
-**Linguagens | Languages**
+**Languages**
 
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00BFFF" />
 </div>
 
-**Apps e Ferramentas | Apps and Tools**
+**Apps and Tools**
 
 <div align="center">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
@@ -103,12 +103,10 @@
   <img alt="Swagger" src="https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D" />
 </div>
 
-## Estatisticas | GitHub Stats
+## GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgermano-data&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielgermano-data&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielgermano-data&theme=github_dark" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielgermano-data&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
@@ -116,5 +114,16 @@
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielgermano-data&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielgermano-data&theme=github_dark&utcOffset=-3" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielgermano-data&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielgermano-data&theme=github_dark" />
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,50:111827,100:000000" />
 </div>
+
