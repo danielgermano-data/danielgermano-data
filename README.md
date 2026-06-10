@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:111827,100:00BFFF&text=Daniel%20Germano&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Junior%20Data%20Engineer%20in%20progress&descSize=18&descAlignY=58" />
+  <img src="./assets/jjk-cutout.gif" width="180" align="top" />
+  <img width="76%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:111827,100:00BFFF&text=Daniel%20Germano&fontColor=FFFFFF&fontSize=42&fontAlign=43&fontAlignY=35&desc=Junior%20Data%20Engineer%20in%20progress&descSize=18&descAlign=43&descAlignY=58" />
 </div>
 
 <div align="center">
@@ -8,16 +9,16 @@
 
 <div align="center">
   <a href="https://github.com/danielgermano-data">
-    <img src="https://img.shields.io/badge/GitHub-danielgermano--data-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/danielgerm/">
-    <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Germano-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:danielgermano.mic@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-danielgermano.mic%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.instagram.com/danielgerman1/">
-    <img src="https://img.shields.io/badge/Instagram-danielgerman1-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
 </div>
 
@@ -46,10 +47,61 @@
 
 ## Projetos | Projects
 
-| Projeto | Linguagens | Apps e Ferramentas |
-| --- | --- | --- |
-| [RetailFlow Analytics](https://github.com/danielgermano-data/retailflow-analytics) | `Python` `SQL` | `PostgreSQL` `Docker Compose` `MinIO` `Airflow` `dbt` `Pandas` `Pytest` `Ruff` `GitHub Actions` |
-| [BankGuard](https://github.com/danielgermano-data/bankguard) | `Python` `SQL` | `PostgreSQL` `FastAPI` `Pandas` `Pydantic` `Docker Compose` `Pytest` `Ruff` `GitHub Actions` `Swagger` |
+<div align="center">
+  <a href="https://github.com/danielgermano-data/retailflow-analytics">
+    <img src="https://img.shields.io/badge/RETAILFLOW%20ANALYTICS-OPEN%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=00BFFF" />
+  </a>
+</div>
+
+**Linguagens | Languages**
+
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00BFFF" />
+</div>
+
+**Apps e Ferramentas | Apps and Tools**
+
+<div align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-111827?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img alt="MinIO" src="https://img.shields.io/badge/MinIO-111827?style=flat-square&logo=minio&logoColor=C72E49" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-111827?style=flat-square&logo=apacheairflow&logoColor=017CEE" />
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-111827?style=flat-square&logo=dbt&logoColor=FF694B" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=FFFFFF" />
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-111827?style=flat-square&logo=pytest&logoColor=0A9EDC" />
+  <img alt="Ruff" src="https://img.shields.io/badge/Ruff-111827?style=flat-square&logo=ruff&logoColor=D7FF64" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://github.com/danielgermano-data/bankguard">
+    <img src="https://img.shields.io/badge/BANKGUARD-OPEN%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=00BFFF" />
+  </a>
+</div>
+
+**Linguagens | Languages**
+
+<div align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=00BFFF" />
+</div>
+
+**Apps e Ferramentas | Apps and Tools**
+
+<div align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=FFFFFF" />
+  <img alt="Pydantic" src="https://img.shields.io/badge/Pydantic-111827?style=flat-square&logo=pydantic&logoColor=E92063" />
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-111827?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img alt="Pytest" src="https://img.shields.io/badge/Pytest-111827?style=flat-square&logo=pytest&logoColor=0A9EDC" />
+  <img alt="Ruff" src="https://img.shields.io/badge/Ruff-111827?style=flat-square&logo=ruff&logoColor=D7FF64" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF" />
+  <img alt="Swagger" src="https://img.shields.io/badge/Swagger-111827?style=flat-square&logo=swagger&logoColor=85EA2D" />
+</div>
 
 ## Estatisticas | GitHub Stats
 
