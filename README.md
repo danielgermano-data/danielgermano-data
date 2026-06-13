@@ -110,10 +110,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgermano-data&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFFFFF" />
 </div>
 
-<div align="left">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danielgermano-data&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
-</div>
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,50:111827,100:000000" />
 </div>
