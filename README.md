@@ -112,4 +112,5 @@
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00BFFF,50:111827,100:000000" />
-</div>
+</div> 
+
