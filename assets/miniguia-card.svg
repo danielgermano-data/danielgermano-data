@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="275" viewBox="0 0 1200 275" role="img" aria-labelledby="title desc">
+  <title id="title">Miniguia de Engenharia de Dados</title>
+  <desc id="desc">Estudo, curadoria e aprendizagem ativa</desc>
+  <rect width="1200" height="275" rx="24" fill="#C7F464"/>
+  <rect x="1" y="1" width="1198" height="273" rx="23" fill="none" stroke="#A5CC45" stroke-width="2"/>
+  <text x="58" y="56" fill="#3D481D" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">CADERNO DE ESTUDOS  /  APRENDIZAGEM ATIVA</text>
+  <text x="58" y="124" fill="#0B0F14" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="900" letter-spacing="-1">MINIGUIA DE ENGENHARIA</text>
+  <text x="58" y="172" fill="#0B0F14" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="900" letter-spacing="-1">DE DADOS</text>
+  <text x="60" y="218" fill="#3D481D" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">CONCEITOS  ·  PIPELINES  ·  CURADORIA  ·  IA</text>
+  <g transform="translate(975 43)" fill="none" stroke="#0B0F14" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 10h110a31 31 0 0 1 31 31v154H31A31 31 0 0 0 0 226Z" fill="#F4E9D8"/>
+    <path d="M0 24h95a25 25 0 0 1 25 25v126H31A31 31 0 0 0 0 206Z"/>
+    <path d="M30 76h58M30 112h58M30 148h42" stroke="#FF6B4A"/>
+  </g>
+  <circle cx="1127" cy="44" r="9" fill="#36C5F0"/><circle cx="937" cy="216" r="7" fill="#FF6B4A"/>
+</svg>

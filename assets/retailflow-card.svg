@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">RetailFlow Analytics</title>
+  <desc id="desc">Pipeline de varejo passando por Raw, Bronze, Silver e Gold</desc>
+  <defs>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#26313D" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="310" rx="24" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="308" rx="23" fill="none" stroke="#26313D" stroke-width="2"/>
+  <rect x="760" width="440" height="310" rx="24" fill="url(#grid)"/>
+  <text x="58" y="64" fill="#C7F464" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="5">PROJETO 01  /  DATA PIPELINE</text>
+  <text x="58" y="139" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="900" letter-spacing="-1">RETAILFLOW</text>
+  <text x="58" y="191" fill="#36C5F0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="7">ANALYTICS</text>
+  <text x="60" y="252" fill="#9AA7B2" font-family="Arial, Helvetica, sans-serif" font-size="18">RAW  →  BRONZE  →  SILVER  →  GOLD  →  DECISÕES</text>
+
+  <g transform="translate(792 26)">
+    <path d="M24 208 C78 208 70 78 126 78 S176 214 226 214 274 64 326 64 348 114 382 114" fill="none" stroke="#36C5F0" stroke-width="14" stroke-linecap="round"/>
+    <path d="M24 225 C78 225 82 104 126 104 S180 235 226 235 280 90 326 90 354 136 382 136" fill="none" stroke="#C7F464" stroke-width="6" stroke-linecap="round"/>
+
+    <g font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900" text-anchor="middle">
+      <g transform="translate(0 172)">
+        <ellipse cx="38" cy="12" rx="36" ry="12" fill="#36C5F0"/>
+        <path d="M2 12v42c0 8 16 14 36 14s36-6 36-14V12" fill="#173744" stroke="#36C5F0" stroke-width="3"/>
+        <ellipse cx="38" cy="54" rx="36" ry="12" fill="#173744" stroke="#36C5F0" stroke-width="3"/>
+        <rect x="0" y="75" width="76" height="26" rx="13" fill="#0B0F14" stroke="#36C5F0" stroke-width="2"/>
+        <text x="38" y="93" fill="#F4E9D8">RAW</text>
+      </g>
+      <g transform="translate(90 34)">
+        <ellipse cx="38" cy="12" rx="36" ry="12" fill="#FF6B4A"/>
+        <path d="M2 12v42c0 8 16 14 36 14s36-6 36-14V12" fill="#4B2B1D" stroke="#FF6B4A" stroke-width="3"/>
+        <ellipse cx="38" cy="54" rx="36" ry="12" fill="#4B2B1D" stroke="#FF6B4A" stroke-width="3"/>
+        <rect x="0" y="75" width="76" height="26" rx="13" fill="#0B0F14" stroke="#FF6B4A" stroke-width="2"/>
+        <text x="38" y="93" fill="#F4E9D8">BRONZE</text>
+      </g>
+      <g transform="translate(190 178)">
+        <ellipse cx="38" cy="12" rx="36" ry="12" fill="#F4E9D8"/>
+        <path d="M2 12v42c0 8 16 14 36 14s36-6 36-14V12" fill="#26313D" stroke="#F4E9D8" stroke-width="3"/>
+        <ellipse cx="38" cy="54" rx="36" ry="12" fill="#26313D" stroke="#F4E9D8" stroke-width="3"/>
+        <rect x="0" y="75" width="76" height="26" rx="13" fill="#0B0F14" stroke="#F4E9D8" stroke-width="2"/>
+        <text x="38" y="93" fill="#F4E9D8">SILVER</text>
+      </g>
+      <g transform="translate(290 20)">
+        <ellipse cx="38" cy="12" rx="36" ry="12" fill="#C7F464"/>
+        <path d="M2 12v42c0 8 16 14 36 14s36-6 36-14V12" fill="#303A1B" stroke="#C7F464" stroke-width="3"/>
+        <ellipse cx="38" cy="54" rx="36" ry="12" fill="#303A1B" stroke="#C7F464" stroke-width="3"/>
+        <rect x="0" y="75" width="76" height="26" rx="13" fill="#0B0F14" stroke="#C7F464" stroke-width="2"/>
+        <text x="38" y="93" fill="#F4E9D8">GOLD</text>
+      </g>
+    </g>
+  </g>
+</svg>

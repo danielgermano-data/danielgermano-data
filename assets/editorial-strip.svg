@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo de trabalho de dados</title>
+  <desc id="desc">Coletar, validar, transformar e entregar</desc>
+  <rect width="1200" height="150" rx="20" fill="#0B0F14"/>
+  <path d="M0 117 C140 117 116 34 260 34 S375 117 520 117 633 34 780 34 896 117 1040 117 1110 71 1200 71" fill="none" stroke="#36C5F0" stroke-width="18"/>
+  <path d="M0 132 C150 132 129 67 270 67 S396 132 535 132 654 67 796 67 910 132 1056 132 1124 94 1200 94" fill="none" stroke="#C7F464" stroke-width="8"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="20" letter-spacing="3">
+    <text x="52" y="45" fill="#F4E9D8">01  COLETAR</text>
+    <text x="337" y="45" fill="#F4E9D8">02  VALIDAR</text>
+    <text x="633" y="106" fill="#0B0F14" stroke="#F4E9D8" stroke-width="5" paint-order="stroke">03  TRANSFORMAR</text>
+    <text x="949" y="45" fill="#F4E9D8">04  ENTREGAR</text>
+  </g>
+  <g fill="#FF6B4A">
+    <circle cx="257" cy="34" r="10"/><circle cx="520" cy="117" r="10"/><circle cx="780" cy="34" r="10"/><circle cx="1040" cy="117" r="10"/>
+  </g>
+</svg>
+

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Germano — Engenharia de Dados</title>
+  <desc id="desc">Transformando dados em decisões</desc>
+  <rect width="1200" height="125" rx="18" fill="#0B0F14"/>
+  <path d="M0 95h200l56-65 70 80 62-52 70 37h235l60-65 65 80 70-52 67 37h245" fill="none" stroke="#26313D" stroke-width="3"/>
+  <g fill="#36C5F0"><circle cx="200" cy="95" r="8"/><circle cx="388" cy="58" r="8"/><circle cx="693" cy="95" r="8"/><circle cx="888" cy="58" r="8"/></g>
+  <g fill="#C7F464"><circle cx="256" cy="30" r="8"/><circle cx="458" cy="95" r="8"/><circle cx="753" cy="30" r="8"/><circle cx="955" cy="95" r="8"/></g>
+  <text x="600" y="57" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" text-anchor="middle" letter-spacing="4">DANIEL GERMANO</text>
+  <text x="600" y="88" fill="#FF6B4A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="5">TRANSFORMANDO DADOS EM DECISÕES</text>
+</svg>
+

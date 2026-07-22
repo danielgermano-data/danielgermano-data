@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">BankGuard</title>
+  <desc id="desc">ETL bancário, qualidade de dados, Data Warehouse e API</desc>
+  <rect width="1200" height="310" rx="24" fill="#F4E9D8"/>
+  <rect x="1" y="1" width="1198" height="308" rx="23" fill="none" stroke="#D9CBB7" stroke-width="2"/>
+  <text x="58" y="64" fill="#A43B27" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="5">PROJETO 02  /  FINANCIAL DATA</text>
+  <text x="58" y="151" fill="#0B0F14" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="900" letter-spacing="-2">BANKGUARD</text>
+  <text x="60" y="204" fill="#475568" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">TRANSAÇÕES CONFIÁVEIS. RISCO VISÍVEL.</text>
+  <text x="60" y="254" fill="#697687" font-family="Arial, Helvetica, sans-serif" font-size="18">ETL  ·  DATA WAREHOUSE  ·  AUDITORIA  ·  FASTAPI</text>
+  <g transform="translate(870 48) scale(0.75)">
+    <path d="M169 4 310 56v88c0 88-58 121-141 149C86 265 28 232 28 144V56Z" fill="#0B0F14"/>
+    <path d="M169 35 279 76v68c0 65-40 92-110 117-70-25-110-52-110-117V76Z" fill="none" stroke="#36C5F0" stroke-width="7"/>
+    <path d="m93 148 48 45 105-103" fill="none" stroke="#C7F464" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#FF6B4A"><circle cx="41" cy="41" r="9"/><circle cx="310" cy="190" r="9"/><circle cx="282" cy="32" r="6"/></g>
+  </g>
+</svg>
