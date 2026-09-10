@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Evidências de engenharia no portfólio de Daniel Germano</title>
+  <desc id="desc">Pipeline ponta a ponta, qualidade de dados e entrega reproduzível</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#26313D" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="#0B0F14"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)" opacity="0.38"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#26313D" stroke-width="2"/>
+
+  <text x="44" y="48" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" letter-spacing="4">EVIDÊNCIAS DE ENGENHARIA</text>
+  <text x="44" y="74" fill="#36C5F0" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">O QUE OS REPOSITÓRIOS CONSEGUEM DEMONSTRAR</text>
+
+  <g transform="translate(44 102)">
+    <rect width="348" height="190" rx="18" fill="#121820" stroke="#26313D" stroke-width="2"/>
+    <rect width="7" height="190" rx="3.5" fill="#36C5F0"/>
+    <circle cx="46" cy="46" r="22" fill="#173744" stroke="#36C5F0" stroke-width="3"/>
+    <path d="M34 46h24M52 39l7 7-7 7" fill="none" stroke="#36C5F0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="82" y="42" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900">PIPELINE END-TO-END</text>
+    <text x="82" y="64" fill="#9AA7B2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">BANKGUARD</text>
+    <text x="28" y="112" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="16">CSV → validação → PostgreSQL</text>
+    <text x="28" y="140" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="16">modelo dimensional → API REST</text>
+    <rect x="28" y="158" width="112" height="22" rx="11" fill="#173744"/>
+    <text x="84" y="174" text-anchor="middle" fill="#36C5F0" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="900">EXECUTÁVEL</text>
+  </g>
+
+  <g transform="translate(426 102)">
+    <rect width="348" height="190" rx="18" fill="#121820" stroke="#26313D" stroke-width="2"/>
+    <rect width="7" height="190" rx="3.5" fill="#C7F464"/>
+    <circle cx="46" cy="46" r="22" fill="#303A1B" stroke="#C7F464" stroke-width="3"/>
+    <path d="m35 46 7 7 15-16" fill="none" stroke="#C7F464" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="82" y="42" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900">QUALIDADE COMO REGRA</text>
+    <text x="82" y="64" fill="#9AA7B2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">BANKGUARD + RETAILFLOW</text>
+    <text x="28" y="112" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="16">Validações, constraints e auditoria</text>
+    <text x="28" y="140" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="16">Testes automatizados e lint</text>
+    <rect x="28" y="158" width="116" height="22" rx="11" fill="#303A1B"/>
+    <text x="86" y="174" text-anchor="middle" fill="#C7F464" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="900">RASTREÁVEL</text>
+  </g>
+
+  <g transform="translate(808 102)">
+    <rect width="348" height="190" rx="18" fill="#121820" stroke="#26313D" stroke-width="2"/>
+    <rect width="7" height="190" rx="3.5" fill="#FF6B4A"/>
+    <circle cx="46" cy="46" r="22" fill="#4B2B1D" stroke="#FF6B4A" stroke-width="3"/>
+    <path d="M34 50h24M38 43h16M42 36h8" fill="none" stroke="#FF6B4A" stroke-width="3" stroke-linecap="round"/>
+    <text x="82" y="42" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="900">ENTREGA REPRODUZÍVEL</text>
+    <text x="82" y="64" fill="#9AA7B2" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1">AMBIENTE + CI</text>
+    <text x="28" y="112" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="16">Docker Compose e configuração clara</text>
+    <text x="28" y="140" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="16">CI versionada com GitHub Actions</text>
+    <rect x="28" y="158" width="128" height="22" rx="11" fill="#4B2B1D"/>
+    <text x="92" y="174" text-anchor="middle" fill="#FF6B4A" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="900">REPRODUZÍVEL</text>
+  </g>
+
+  <text x="600" y="330" text-anchor="middle" fill="#9AA7B2" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="4">CÓDIGO QUE RODA  ·  DECISÕES QUE DÃO PARA EXPLICAR</text>
+</svg>

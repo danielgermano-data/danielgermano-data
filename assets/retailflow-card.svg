@@ -7,7 +7,7 @@
   <rect width="1200" height="310" rx="24" fill="#0B0F14"/>
   <rect x="1" y="1" width="1198" height="308" rx="23" fill="none" stroke="#26313D" stroke-width="2"/>
   <rect x="760" width="440" height="310" rx="24" fill="url(#grid)"/>
-  <text x="58" y="64" fill="#C7F464" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="5">PROJETO 01  /  DATA PIPELINE</text>
+  <text x="58" y="64" fill="#C7F464" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">CASE 02  /  RETAIL DATA PIPELINE</text>
   <text x="58" y="139" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="900" letter-spacing="-1">RETAILFLOW</text>
   <text x="58" y="191" fill="#36C5F0" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" letter-spacing="7">ANALYTICS</text>
   <text x="60" y="252" fill="#9AA7B2" font-family="Arial, Helvetica, sans-serif" font-size="18">RAW  →  BRONZE  →  SILVER  →  GOLD  →  DECISÕES</text>

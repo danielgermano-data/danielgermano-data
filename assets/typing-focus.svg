@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img" aria-labelledby="title desc">
+  <title id="title">Foco técnico de Daniel Germano</title>
+  <desc id="desc">Python, SQL, PostgreSQL, pipelines, qualidade de dados, APIs e Docker</desc>
+  <style>
+    .line { font: 700 25px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; letter-spacing: 1px; text-anchor: middle; }
+    .first { animation: first-line 12s infinite; }
+    .second { animation: second-line 12s infinite; }
+    .third { animation: third-line 12s infinite; }
+    .cursor { animation: blink 0.9s steps(1) infinite; }
+    @keyframes first-line { 0%, 28% { opacity: 1; } 33%, 95% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes second-line { 0%, 30% { opacity: 0; } 35%, 61% { opacity: 1; } 66%, 100% { opacity: 0; } }
+    @keyframes third-line { 0%, 63% { opacity: 0; } 68%, 94% { opacity: 1; } 99%, 100% { opacity: 0; } }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; }
+      .second, .third { display: none; }
+      .cursor { animation: none; }
+    }
+  </style>
+  <rect width="1200" height="86" rx="18" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="84" rx="17" fill="none" stroke="#26313D" stroke-width="2"/>
+  <circle cx="34" cy="23" r="5" fill="#FF6B4A"/>
+  <circle cx="52" cy="23" r="5" fill="#C7F464"/>
+  <circle cx="70" cy="23" r="5" fill="#36C5F0"/>
+  <text x="600" y="56" class="line first" fill="#36C5F0">Python + SQL + PostgreSQL</text>
+  <text x="600" y="56" class="line second" fill="#C7F464" opacity="0">Pipelines, qualidade e modelagem de dados</text>
+  <text x="600" y="56" class="line third" fill="#F4E9D8" opacity="0">APIs, Docker e entrega reproduzível</text>
+  <rect x="1017" y="35" width="3" height="28" rx="1.5" fill="#FF6B4A" class="cursor"/>
+</svg>
