@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo de trabalho de dados</title>
+  <desc id="desc">Coletar, validar, transformar, modelar, testar e entregar</desc>
+  <defs>
+    <linearGradient id="flow-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#36C5F0"/>
+      <stop offset="0.52" stop-color="#C7F464"/>
+      <stop offset="1" stop-color="#FF6B4A"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" rx="24" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="218" rx="23" fill="none" stroke="#26313D" stroke-width="2"/>
+  <g opacity="0.35" stroke="#26313D" stroke-width="1">
+    <path d="M0 55H1200M0 110H1200M0 165H1200"/>
+    <path d="M120 0V220M360 0V220M600 0V220M840 0V220M1080 0V220"/>
+  </g>
+
+  <path id="pipeline" d="M86 117 C150 44 224 44 286 117 S423 190 486 117 622 44 686 117 823 190 886 117 1019 44 1114 117" fill="none" stroke="#26313D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M86 117 C150 44 224 44 286 117 S423 190 486 117 622 44 686 117 823 190 886 117 1019 44 1114 117" fill="none" stroke="url(#flow-gradient)" stroke-width="7" stroke-linecap="round"/>
+
+  <g fill="#F4E9D8" stroke="#0B0F14" stroke-width="6">
+    <circle cx="86" cy="117" r="16"/>
+    <circle cx="286" cy="117" r="16"/>
+    <circle cx="486" cy="117" r="16"/>
+    <circle cx="686" cy="117" r="16"/>
+    <circle cx="886" cy="117" r="16"/>
+    <circle cx="1114" cy="117" r="16"/>
+  </g>
+
+  <circle r="9" fill="#FFFFFF" filter="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" dur="6s" repeatCount="indefinite"/>
+    <animateMotion dur="6s" repeatCount="indefinite" rotate="auto"><mpath href="#pipeline"/></animateMotion>
+  </circle>
+  <circle r="6" fill="#C7F464" filter="url(#glow)" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.02;0.98;1" dur="6s" begin="3s" repeatCount="indefinite"/>
+    <animateMotion dur="6s" begin="3s" repeatCount="indefinite" rotate="auto"><mpath href="#pipeline"/></animateMotion>
+  </circle>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g fill="#9AA7B2" font-size="12" font-weight="700" letter-spacing="2">
+      <text x="86" y="44">01</text><text x="286" y="44">02</text><text x="486" y="44">03</text>
+      <text x="686" y="44">04</text><text x="886" y="44">05</text><text x="1114" y="44">06</text>
+    </g>
+    <g fill="#F4E9D8" font-size="16" font-weight="900" letter-spacing="2">
+      <text x="86" y="72">COLETAR</text>
+      <text x="286" y="72">VALIDAR</text>
+      <text x="486" y="72">TRATAR</text>
+      <text x="686" y="72">MODELAR</text>
+      <text x="886" y="72">TESTAR</text>
+      <text x="1114" y="72">ENTREGAR</text>
+    </g>
+  </g>
+</svg>
