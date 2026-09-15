@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="125" viewBox="0 0 1200 125" role="img" aria-labelledby="title desc">
-  <title id="title">Daniel Germano — Engenharia de Dados</title>
-  <desc id="desc">Transformando dados em decisões</desc>
-  <rect width="1200" height="125" rx="18" fill="#0B0F14"/>
-  <path d="M0 95h200l56-65 70 80 62-52 70 37h235l60-65 65 80 70-52 67 37h245" fill="none" stroke="#26313D" stroke-width="3"/>
-  <g fill="#36C5F0"><circle cx="200" cy="95" r="8"/><circle cx="388" cy="58" r="8"/><circle cx="693" cy="95" r="8"/><circle cx="888" cy="58" r="8"/></g>
-  <g fill="#C7F464"><circle cx="256" cy="30" r="8"/><circle cx="458" cy="95" r="8"/><circle cx="753" cy="30" r="8"/><circle cx="955" cy="95" r="8"/></g>
-  <text x="600" y="57" fill="#F4E9D8" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="900" text-anchor="middle" letter-spacing="4">DANIEL GERMANO</text>
-  <text x="600" y="88" fill="#FF6B4A" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="5">TRANSFORMANDO DADOS EM DECISÕES</text>
-</svg>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="145" viewBox="0 0 1200 145" role="img"><title>Daniel Germano — Dados, Automação e Engenharia de IA</title><rect width="1200" height="145" rx="16" fill="#0B1420"/><path d="M42 34H1158" stroke="#2B4052"/><text x="42" y="80" fill="#E8EDF2" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" >DANIEL GERMANO</text><text x="42" y="115" fill="#63CFD7" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="400" >Dados, Automação &amp; Engenharia de IA</text><text x="1155" y="80" fill="#A8BACB" font-family="monospace" font-size="16" font-weight="400" text-anchor="end">CONSTRUIR · VALIDAR · EVOLUIR</text></svg>
