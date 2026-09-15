@@ -73,6 +73,29 @@ Construo **pipelines, automações e APIs com Python e SQL**, com foco em qualid
   <a href="https://github.com/danielgermano-data/retailflow-analytics/actions/workflows/ci.yml"><img src="./assets/link-ci.svg" alt="CI do RetailFlow Analytics" height="28" /></a>
 </div>
 
+<a href="https://github.com/danielgermano-data/datatrace-ai">
+  <img src="./assets/datatrace-card.svg" alt="DataTrace AI — comparação de arquivos e investigação de mudanças no faturamento" width="100%" />
+</a>
+
+**DataTrace AI** · Compara duas versões de pedidos em CSV e mostra quais registros explicam a mudança no faturamento.
+
+<details>
+<summary>Detalhes técnicos</summary>
+
+- Motor em Python com cálculos exatos em centavos e rastreabilidade por pedido e linha.
+- Identificação de inclusões, remoções, alterações e repetições, sem modificar os arquivos originais.
+- Interface local com upload de CSVs e relatórios em Markdown e JSON.
+- 54 testes automatizados, incluindo 300 pares de arquivos gerados para verificar a reconciliação.
+- IA opcional: adaptador para priorizar evidências com modelo local; inferência real ainda não validada.
+
+</details>
+
+<div align="left">
+  <a href="https://github.com/danielgermano-data/datatrace-ai"><img src="./assets/link-repo.svg" alt="Ver repositório DataTrace AI" height="28" /></a>
+  <a href="https://github.com/danielgermano-data/datatrace-ai/blob/main/docs/DECISOES.md"><img src="./assets/link-architecture.svg" alt="Ler decisões técnicas do DataTrace AI" height="28" /></a>
+  <a href="https://github.com/danielgermano-data/datatrace-ai/actions/workflows/tests.yml"><img src="./assets/link-ci.svg" alt="Testes do DataTrace AI" height="28" /></a>
+</div>
+
 <br />
 
 <details>

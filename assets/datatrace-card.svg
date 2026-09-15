@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+  <title id="title">DataTrace AI — investigação de mudanças nos dados</title>
+  <desc id="desc">Exemplo sintético: faturamento de dez mil para quatorze mil reais. Quatro mil reais em linhas repetidas explicam a diferença.</desc>
+  <defs><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#2B4052" stroke-width="1"/></pattern></defs>
+  <rect width="1200" height="310" rx="24" fill="#0B1420"/>
+  <rect x="1" y="1" width="1198" height="308" rx="23" fill="none" stroke="#2B4052" stroke-width="2"/>
+  <rect x="760" width="440" height="310" rx="24" fill="url(#grid)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="64" fill="#83CBB5" font-size="17" font-weight="700" letter-spacing="2">CASE 03 / INVESTIGAÇÃO DE DADOS</text>
+    <text x="58" y="139" fill="#EEF2F5" font-size="46" font-weight="900" letter-spacing="-1">DATATRACE <tspan fill="#63CFD7">AI</tspan></text>
+    <text x="60" y="190" fill="#63CFD7" font-size="24" font-weight="600">O que mudou no faturamento?</text>
+    <text x="60" y="246" fill="#9AA7B2" font-size="18">COMPARAR → INVESTIGAR → CONFERIR</text>
+    <rect x="794" y="38" width="348" height="202" rx="16" fill="#111E2D" stroke="#2B4052" stroke-width="2"/>
+    <text x="818" y="71" fill="#9AA7B2" font-size="14" letter-spacing="1">EXEMPLO SINTÉTICO / CSV</text>
+    <text x="818" y="108" fill="#9AA7B2" font-size="16">ANTES</text>
+    <text x="997" y="108" fill="#9AA7B2" font-size="16">DEPOIS</text>
+    <text x="818" y="146" fill="#EEF2F5" font-size="29" font-weight="700">R$ 10 mil</text>
+    <text x="997" y="146" fill="#EEF2F5" font-size="29" font-weight="700">R$ 14 mil</text>
+    <path d="M957 132h24m-7-7 7 7-7 7" fill="none" stroke="#63CFD7" stroke-width="2"/>
+    <path d="M818 168h300" stroke="#2B4052"/>
+    <text x="818" y="205" fill="#83CBB5" font-size="21" font-weight="700">+ R$ 4 mil</text>
+    <text x="953" y="205" fill="#9AA7B2" font-size="16">em repetições</text>
+    <text x="794" y="274" fill="#A6ACDF" font-size="16">EVIDÊNCIAS POR PEDIDO E LINHA</text>
+  </g>
+</svg>
